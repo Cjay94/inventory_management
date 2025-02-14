@@ -1,0 +1,6 @@
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/Cjay94/cjdstock-BE.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/Cjay94/cjdstock-FE.git
